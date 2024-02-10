@@ -37,7 +37,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos técnicos e ter um retorno sobre a quantidade de questões que você acertou.
 
 ## 💻 Github Pages
-[🔗 Clique aqui para acessar](https://jhessfrois.github.io/blogatinhos/)
+[🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-expert-html-css-js/)
 
 
 ## 📝 Licença
