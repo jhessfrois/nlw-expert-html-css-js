@@ -23,13 +23,13 @@ Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
   <img alt="Preview do projeto desenvolvido." src="https://i.imgur.com/OVYo59D.jpeg" width="80%">
 </p>
 
-## 🚀 Tecnologias
+## **🚀 Tecnologias**
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML
-- CSS
-- JavaScript
+- ![HTML](https://img.shields.io/badge/html-323338?style=for-the-badge&logo=HTML5&logoColor=E34F26)
+- ![CSS](https://img.shields.io/badge/css-323338?style=for-the-badge&logo=CSS3&logoColor=1572B6) 
+- ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 ## 💻 Projeto
@@ -39,6 +39,11 @@ Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos té
 ## 💻 Github Pages
 [🔗 Clique aqui para acessar](https://jhessfrois.github.io/nlw-expert-html-css-js/)
 
+## **🤍 Contato**
+
+[<img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' alt='Instagram' height='30'>](https://www.instagram.com/jhessfrois.tech)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/jhessfrois/)
+[<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='Gmail' height='30'>](jhessfsantos@gmail.com)
 
 ## 📝 Licença
 
