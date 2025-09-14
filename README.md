@@ -1,6 +1,6 @@
 <p align="center">
   <img alt="Logo NLW Expert - Rocketseat" src="https://i.imgur.com/fQXP4h1.png" width="200px" />
-</p>
+</p> 
 
 <p align="center">
 Aplicação desenvolvida no NLW Expert da Rocketseat na trilha HTML+CSS+JS.
@@ -50,3 +50,4 @@ Nesse projeto você vai desenvolver um quiz pra testar os seus conhecimentos té
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
+
